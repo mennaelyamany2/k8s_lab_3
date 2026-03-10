@@ -22,10 +22,10 @@ This lab demonstrates:
 ## Screenshots
 
 ### 1. Dev namespace pods and services
-![Dev Pods and Services](Screenshot from 2026-03-10 20-07-15.png)
+![Frontend App](img/frontend.png)
 
 ### 2. Staging namespace pods and services
-![Staging Pods and Services](Screenshot from 2026-03-10 20-07-15.png)
+![Frontend App](img/frontend.png)
 
 ### 3. Frontend application running in browser
-![Frontend App](Screenshot from 2026-03-10 20-14-59.png)
+![backend App](img/back.png)
